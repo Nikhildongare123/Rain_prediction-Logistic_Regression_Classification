@@ -126,16 +126,6 @@ Rain Expected 🌧️
 
 ---
 
-## 🔮 Future Improvements
-
-* Random Forest Implementation
-* XGBoost Model
-* Real-Time Weather API Integration
-* Cloud Deployment
-* Model Monitoring
-
----
-
 ## 👨‍💻 Author
 
 **Nikhil Dongare**
